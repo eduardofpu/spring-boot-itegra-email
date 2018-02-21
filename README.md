@@ -19,7 +19,8 @@ Instalar as seguintes ferramentas:
 
     4. docker
 
-    Aqui no dbeaver você podera adcionar o banco postgres ou o  banco desejado para visualizar os dados se estiver utilizando o docker-c
+    Aqui no dbeaver você podera adcionar o banco postgres ou o  banco desejado para visualizar os dados se estiver utilizando o docker-compose
+    caso deseja utilizar outro banco no docker e necessario baixar a imagem do banco desejado pois aqui esta a imagem do postgres 9.4
 
 ## 2.Não esquecer de mudar as configuraçoes do seu email
 
@@ -36,8 +37,7 @@ mvn clean istall
 mvn clean istall
 
 
-ompose
-    caso deseja utilizar outro banco no docker e necessario baixar a imagem do banco desejado pois aqui esta a imagem do postgres 9.4
+
 
 ## 4.Porta padrão
 
