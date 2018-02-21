@@ -5,6 +5,17 @@ Aqui possui dois projetos
 1-listvip
 2-enviadorEmail
 
+3-Observação: O projeto eviadoEmail e integrado no projeto listvip (o qual foi adcional através do pom.xml no projeto "listvip")
+
+4-  Exemplo:
+
+
+       <dependency>
+			<groupId>br.com.alura.enviadorEmail</groupId>
+			<artifactId>enviadorEmail</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+
 ```
 ## 1. Requisitos 
 
